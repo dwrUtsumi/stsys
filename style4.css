@@ -280,6 +280,10 @@ a.btn--orange:hover {
   .biko_table tbody tr td:nth-child(1) {
     min-width: 60px;
   }
+  .biko_tr {
+    width: 97%;
+    font-size: 14px;
+}
   
   /*テーブル*/
   .stsys4_table_main {
