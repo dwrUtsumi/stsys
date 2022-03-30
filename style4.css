@@ -249,6 +249,9 @@ a.btn--orange:hover {
     min-width: 220px;
     min-height: 36px;
   }
+  .course_table tbody tr td:nth-child(1) {
+    min-width: 60px;
+  }
   /*会場選択*/
   .place_table{
     width: 25%;
@@ -279,6 +282,11 @@ a.btn--orange:hover {
   }
   .biko_table tbody tr td:nth-child(1) {
     min-width: 60px;
+  }
+  .biko_tr{
+    width: 95%;
+    box-sizing: border-box;
+    font-size: 16px;
   }
   
   /*テーブル*/
